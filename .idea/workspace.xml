@@ -5,7 +5,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_11/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/se/johan_hammerin/CalculatorTest/CalculatorTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Hawaii/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/hawaii/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_10/Övning_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_10/Övning_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_10/Övning_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_2/conditionals/IfExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/conditionals/IfExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_2/conditionals/SwitchExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/conditionals/SwitchExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_2/loops/ArrayLoopExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/loops/ArrayLoopExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_2/loops/ForLoopExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/loops/ForLoopExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/methods/MethodExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/methods/MethodExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Bakelser/Bakelse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Bakelse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Bakelser/Bullängd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Bullängd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Bakelser/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Bakelser/Solbulle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Solbulle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Bil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_3/oop/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_4/Calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/Calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_4/Calculator/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/Calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_4/SwitchExercise/SwitchExercise.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/SwitchExercise/SwitchExercise.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_4/primtitiva_String_Objects/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/primtitiva_String_Objects/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_5/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_5/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Parprogrammering/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Parprogrammering/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Parprogrammering/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Parprogrammering/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Övning_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Övning_1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Övning_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_6/Övning_2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_7/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_8/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_8/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_8/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_1/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_2/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_2/Publisher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Publisher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_2/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_3/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_3/Department.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Department.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/associationer/Övning_3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/toString/Apartment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/toString/Apartment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Lektion_9/toString/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/toString/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Tärningsspelet/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Tärningsspelet/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Tärningsspelet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/Tärningsspelet/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Player.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +90,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "JUnit.CalculatorTest.testAdd.executor": "Run",
+    "JUnit.CalculatorTest.testDivide.executor": "Run",
+    "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
+    "JUnit.CalculatorTest.testMultiply.executor": "Run",
+    "JUnit.CalculatorTest.testSubtract.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -51,6 +112,97 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.CalculatorTest.testSquareRootOf">
+    <configuration name="CalculatorTest.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testDivide" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testDivisionByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testDivisionByZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testMultiply" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testSquareRootOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSquareRootOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSubtract" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CalculatorTest.testSquareRootOf" />
+        <item itemvalue="JUnit.CalculatorTest.testDivisionByZero" />
+        <item itemvalue="JUnit.CalculatorTest.testMultiply" />
+        <item itemvalue="JUnit.CalculatorTest.testDivide" />
+        <item itemvalue="JUnit.CalculatorTest.testSubtract" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +222,7 @@
       <workItem from="1727334436966" duration="226000" />
       <workItem from="1727334693226" duration="518000" />
       <workItem from="1727335242101" duration="169000" />
-      <workItem from="1727335436506" duration="442000" />
+      <workItem from="1727335436506" duration="4284000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
