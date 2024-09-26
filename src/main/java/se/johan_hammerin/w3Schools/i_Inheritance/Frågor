@@ -1,0 +1,45 @@
+Uppgift 1: Enkel Arvstruktur
+
+    Skapa två klasser: Animal (superklass) och Dog (subklass).
+    I Animal, skapa en metod makeSound() som skriver ut "Animal sound".
+    I Dog, överskugga makeSound() och skriv ut "Bark".
+    Skapa ett objekt av Dog och anropa metoden makeSound().
+
+Uppgift 2: Åtkomst till Superklassens Attribut
+
+    Skapa en klass Person med ett attribut name och en metod displayInfo() som skriver ut namnet.
+    Skapa en subklass Student som ärver Person och lägger till attributet studentID.
+    I Student, skapa en metod displayStudentInfo() som skriver ut både name och studentID.
+    Skapa ett Student-objekt och anropa metoden displayStudentInfo().
+
+Uppgift 3: Arv med Konstruktorer
+
+    Skapa en superklass Employee med ett attribut salary och en konstruktor som tar en parameter för att sätta salary.
+    Skapa en subklass Manager som ärver Employee och lägger till ett attribut department.
+    Skapa en konstruktor för Manager som sätter både salary och department.
+    Skapa ett Manager-objekt och skriv ut både salary och department.
+
+Uppgift 4: Användning av final-nyckelordet
+
+    Skapa en klass Library med en metod openLibrary() som skriver ut "Library is open".
+    Markera Library-klassen med final och försök skapa en subklass PublicLibrary som ärver från Library.
+    Observera felmeddelandet och förklara varför arv inte är tillåtet.
+
+Uppgift 5: Flerstegsarv
+
+    Skapa en klass LivingBeing med en metod breathe() som skriver ut "Breathing".
+    Skapa en subklass Animal som ärver från LivingBeing och lägger till en metod move() som skriver ut "Moving".
+    Skapa en subklass Bird som ärver från Animal och lägger till en metod fly() som skriver ut "Flying".
+    Skapa ett Bird-objekt och anropa alla tre metoderna: breathe(), move(), och fly().
+
+Uppgift 6: Användning av protected-åtkomstmodifierare
+
+    Skapa en klass BankAccount med ett protected attribut balance.
+    Skapa en subklass SavingsAccount som ärver från BankAccount och har en metod addInterest() som ökar balance med en viss ränta.
+    Skapa ett SavingsAccount-objekt, sätt ett startvärde på balance, och anropa addInterest() för att visa den uppdaterade balansen.
+
+Uppgift 7: Polymorfism och Arv
+
+    Skapa en superklass Shape med en metod draw().
+    Skapa två subklasser Circle och Rectangle som överskuggar draw() för att skriva ut specifika meddelanden (t.ex. "Drawing a circle" och "Drawing a rectangle").
+    Skapa en metod som tar en Shape-referens som parameter och anropar draw(). Skicka in olika Shape-objekt (t.ex. Circle och Rectangle) och se polymorfismen i action.

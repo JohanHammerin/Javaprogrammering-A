@@ -1,0 +1,26 @@
+1. Skapa och anropa en statisk metod
+
+    Skapa en klass som heter Calculator med en statisk metod addNumbers() som tar två int-parametrar och returnerar summan av dessa.
+    Anropa metoden från huvudmetoden utan att skapa ett objekt och skriv ut resultatet.
+
+2. Skapa och anropa en publik metod
+
+    Skapa en klass som heter Printer med en publik metod printMessage() som skriver ut texten "This is a public method."
+    Skapa ett objekt av Printer och anropa printMessage() från huvudmetoden.
+
+3. Metoder med parametrar
+
+    Skapa en klass Person med en publik metod greet() som tar en parameter name (String) och skriver ut "Hello, [name]!".
+    Skapa ett objekt av Person och anropa greet() från huvudmetoden med ett namn som argument.
+
+4. Använda flera klasser och metoder
+
+    Skapa två klasser: MainClass och Helper.
+        I MainClass, skapa två metoder: fullThrottle() och speed() som tar en int-parameter.
+        I Helper, skapa huvudmetoden och skapa ett objekt av MainClass. Anropa metoderna fullThrottle() och speed() från objektet.
+
+5. Skapa en klass med en metod som returnerar ett värde
+
+    Skapa en klass som heter MathOperations med en metod multiply() som tar två int-parametrar och returnerar deras produkt.
+    Skapa ett objekt av MathOperations och anropa multiply() från huvudmetoden. Skriv ut det returnerade värdet.
+

@@ -1,0 +1,32 @@
+1. Användning av Access Modifier
+
+    Skapa en klass Person med två attribut: name och age.
+    Använd public för attributet name och private för age.
+    Skapa en metod i klassen som skriver ut både name och age.
+    Försök att direkt komma åt och ändra age från huvudmetoden och se vad som händer.
+
+2. Skapa en final klass
+
+    Skapa en final klass som heter Vehicle.
+    Lägg till en metod move() i klassen som skriver ut "The vehicle is moving".
+    Försök skapa en ny klass som ärver från Vehicle och se vad som händer.
+
+3. Användning av static metoder
+
+    Skapa en klass MathOperations med en static metod add(int a, int b) som returnerar summan av två tal.
+    Skapa också en icke-statisk metod subtract(int a, int b) som returnerar skillnaden mellan två tal.
+    Anropa add-metoden utan att skapa ett objekt av MathOperations.
+    Anropa subtract-metoden från huvudmetoden och förklara skillnaden.
+
+4. Skapa en abstrakt klass
+
+    Skapa en abstrakt klass Animal med en abstrakt metod sound().
+    Skapa två klasser, Dog och Cat, som ärver från Animal och implementerar sound()-metoden på olika sätt.
+    Skapa objekt av Dog och Cat i huvudmetoden och anropa sound()-metoden.
+
+5. Kombinera protected och final
+
+    Skapa en klass Shape med ett protected attribut color.
+    Skapa en klass Circle som ärver från Shape och har ett final attribut PI.
+    Sätt värdet för color i Circle-konstruktorn och skapa en metod som returnerar en beskrivning av cirkeln med dess färg.
+    Skapa ett objekt av Circle i huvudmetoden och skriv ut dess beskrivning.

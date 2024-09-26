@@ -1,0 +1,41 @@
+
+
+
+Uppgift 1: Importera och Använda Klasser från Inbyggda Paket
+
+    Importera Scanner-klassen från java.util och använd den för att ta in användarinmatning för en persons namn och ålder.
+    Skriv ut informationen i formatet:
+    "Namn: [användarnamn], Ålder: [användarens ålder]".
+
+Bonus: Lägg till en validering så att om användaren matar in en ålder mindre än 0, ska programmet skriva ut ett felmeddelande.
+Uppgift 2: Skapa och Använda Eget Paket
+
+    Skapa ett användardefinierat paket som heter mypackage och skapa en klass i det paketet som heter Person.
+    I Person-klassen ska du ha två attribut: name (String) och age (int), samt en metod displayInfo() som skriver ut personens namn och ålder.
+    Skapa en annan klass i ett separat paket (t.ex. mainpackage) som importerar Person-klassen från
+     mypackage och använder den för att skapa ett objekt och visa informationen om personen.
+
+Uppgift 3: Importera Flera Klasser från ett Inbyggt Paket
+
+    Importera hela java.util-paketet och använd klasserna Random och Scanner.
+    Använd Random för att generera ett slumpmässigt tal mellan 1 och 100, och
+    låt användaren gissa talet med hjälp av Scanner.
+    Programmet ska fortsätta tills användaren gissar rätt tal,
+    och efter varje felaktig gissning ska programmet ge en ledtråd om talet är högre eller lägre än
+    användarens gissning.
+
+Uppgift 4: Organisera Klasser i Flera Paket
+
+    Skapa två paket: shapes och geometry.
+    I shapes-paketet, skapa klasser för olika geometriska figurer, till exempel Circle och Rectangle,
+    med metoder för att beräkna area och omkrets.
+    I geometry-paketet, skapa en klass som importerar och använder klasserna från shapes
+    för att skapa objekt och visa deras area och omkrets baserat på inmatade dimensioner.
+
+Uppgift 5: Skapa ett Bibliotek med Flera Klasser i Ett Paket
+
+    Skapa ett paket som heter mathoperations och skapa klasser som representerar olika matematiska
+    operationer, till exempel Addition, Subtraction, Multiplication, och Division.
+    Varje klass ska ha en metod som utför respektive operation och returnerar resultatet.
+    I en separat klass, importera alla klasser från mathoperations-paketet och låt
+    användaren välja vilken operation som ska utföras, mata in två tal, och visa resultatet.

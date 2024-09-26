@@ -1,0 +1,31 @@
+
+
+   1. Förklara skillnaden mellan procedurprogrammering och objektorienterad programmering:
+        Skriv en kort text som förklarar skillnaden mellan procedurprogrammering
+        och objektorienterad programmering.
+        Ge exempel på när du skulle välja OOP framför procedurprogrammering i ett Java-program.
+
+   2. Fördelarna med OOP:
+        Förklara med egna ord tre fördelar med att använda objektorienterad programmering
+        jämfört med procedurprogrammering.
+        Ge ett exempel på hur OOP gör det enklare att återanvända kod i Java-applikationer.
+
+
+   3. DRY-principen:
+        Beskriv vad DRY-principen innebär och varför den är viktig inom OOP.
+        Ge ett exempel på hur du kan tillämpa DRY-principen i ett Java-program,
+        genom att extrahera gemensam kod i en metod eller klass.
+
+
+   4. Skapa klasser och objekt:
+        Skapa en klass Animal som innehåller en instansvariabel name och en metod makeSound().
+        Skapa tre objekt av klassen Animal, till exempel dog, cat, och cow,
+        och anropa metoden makeSound() för varje objekt.
+        Förklara hur objekten är instanser av klassen och hur de ärver metoder och variabler från klassen.
+
+
+   5. Skillnad mellan klass och objekt:
+        Skapa en klass Fruit med en instansvariabel type och en metod describe().
+        Skapa tre objekt av klassen Fruit, till exempel apple, banana, och mango.
+        Förklara i skrift vad som menas med att en klass är en mall (template) och hur objekten är specifika instanser av denna mall.
+
