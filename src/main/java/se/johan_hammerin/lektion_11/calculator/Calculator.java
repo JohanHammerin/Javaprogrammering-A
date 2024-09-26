@@ -28,7 +28,16 @@ public class Calculator {
     }
 
     public double getAreaOfCircle(double radius) {
-        return Math.PI * Math.pow(radius,2);
+        return Math.PI * Math.pow(radius, 2);
+    }
+
+    public boolean enterSystembolaget(int age, boolean parent, boolean dog) {
+        if (age < 20) {
+            return parent;
+        } else if (age > 20) {
+            return dog;
+        }
+        return false;
     }
 
 }
