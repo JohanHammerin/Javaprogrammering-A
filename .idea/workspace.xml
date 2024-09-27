@@ -5,9 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Frågor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/CreditCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PayPal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Hammer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Wrench.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_11/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_11/calculator/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/se/johan_hammerin/CalculatorTest/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/se/johan_hammerin/CalculatorTest/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +58,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor": "Run",
     "JUnit.CalculatorTest.testAdd.executor": "Run",
     "JUnit.CalculatorTest.testDivide.executor": "Run",
     "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
@@ -59,94 +85,79 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testSquareRootOf">
-    <configuration name="CalculatorTest.testDivide" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_1.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
-      <option name="METHOD_NAME" value="testDivide" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testDivisionByZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
-      <option name="METHOD_NAME" value="testDivisionByZero" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testMultiply" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
-      <option name="METHOD_NAME" value="testMultiply" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testSquareRootOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
-      <option name="METHOD_NAME" value="testSquareRootOf" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testSubtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.CalculatorTest.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="se.johan_hammerin.CalculatorTest" />
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.CalculatorTest.CalculatorTest" />
-      <option name="METHOD_NAME" value="testSubtract" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorTest.testSquareRootOf" />
-        <item itemvalue="JUnit.CalculatorTest.testDivisionByZero" />
-        <item itemvalue="JUnit.CalculatorTest.testMultiply" />
-        <item itemvalue="JUnit.CalculatorTest.testDivide" />
-        <item itemvalue="JUnit.CalculatorTest.testSubtract" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -170,6 +181,7 @@
       <workItem from="1727334693226" duration="518000" />
       <workItem from="1727335242101" duration="169000" />
       <workItem from="1727335436506" duration="6692000" />
+      <workItem from="1727417520323" duration="1913000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
