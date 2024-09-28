@@ -5,31 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Hammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Wrench.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JohanHammerin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JohanHammerin/Javaprogrammering-A.git&quot;,
+    &quot;accountId&quot;: &quot;52277384-6982-440d-b3b2-c755cc753a84&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -55,36 +43,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor": "Run",
-    "JUnit.CalculatorTest.testAdd.executor": "Run",
-    "JUnit.CalculatorTest.testDivide.executor": "Run",
-    "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
-    "JUnit.CalculatorTest.testMultiply.executor": "Run",
-    "JUnit.CalculatorTest.testSquareRootOf.executor": "Run",
-    "JUnit.CalculatorTest.testSubtract.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivide.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivisionByZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testMultiply.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSquareRootOf.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSubtract.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_1.Main" />
@@ -182,6 +170,8 @@
       <workItem from="1727335242101" duration="169000" />
       <workItem from="1727335436506" duration="6692000" />
       <workItem from="1727417520323" duration="1913000" />
+      <workItem from="1727534152095" duration="17000" />
+      <workItem from="1727534234031" duration="31000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
