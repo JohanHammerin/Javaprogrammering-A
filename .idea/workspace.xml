@@ -5,18 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_1/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_2/InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_3/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_4/OuterClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_5/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Frågor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Motorcycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Smartphone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Manager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +72,9 @@
     "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main.executor": "Run",
     "JUnit.CalculatorTest.testAdd.executor": "Run",
     "JUnit.CalculatorTest.testDivide.executor": "Run",
     "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
@@ -72,6 +83,7 @@
     "JUnit.CalculatorTest.testSubtract.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ToolWindow.Run.ShowToolbar": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -87,52 +99,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_3.Main" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_5.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
-      <module name="Javaprogrammering-A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main" />
-      <module name="Javaprogrammering-A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main" />
-      <module name="Javaprogrammering-A" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,13 +126,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main" />
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main" />
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main" />
+      <module name="Javaprogrammering-A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +201,7 @@
       <workItem from="1727534295467" duration="42000" />
       <workItem from="1727534412485" duration="32000" />
       <workItem from="1727534621388" duration="2302000" />
+      <workItem from="1727596731494" duration="2633000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
