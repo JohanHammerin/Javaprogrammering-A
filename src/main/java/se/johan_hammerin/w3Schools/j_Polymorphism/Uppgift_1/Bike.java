@@ -5,6 +5,6 @@ public class Bike extends Vehicle {
     //Method
     @Override
     public void startEngine() {
-        System.out.println("Bike started it's engine");
+        System.out.println("Motorcycle started it's engine");
     }
 }
