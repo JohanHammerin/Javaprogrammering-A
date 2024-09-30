@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/CreditCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PayPal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PaymentMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Hammer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Tool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Wrench.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,7 +155,7 @@
       <workItem from="1727334693226" duration="518000" />
       <workItem from="1727335242101" duration="169000" />
       <workItem from="1727335436506" duration="6692000" />
-      <workItem from="1727417520323" duration="1913000" />
+      <workItem from="1727417520323" duration="1928000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
