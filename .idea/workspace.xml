@@ -4,7 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07" />
+    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Frågor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Soundable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Appliance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/WashingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Recordable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -29,43 +51,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testDivide.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testDivisionByZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testMultiply.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testSquareRootOf.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CalculatorTest.testSubtract.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_1.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_3.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_4.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.Main.executor": "Run",
+    "JUnit.CalculatorTest.testAdd.executor": "Run",
+    "JUnit.CalculatorTest.testDivide.executor": "Run",
+    "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
+    "JUnit.CalculatorTest.testMultiply.executor": "Run",
+    "JUnit.CalculatorTest.testSquareRootOf.executor": "Run",
+    "JUnit.CalculatorTest.testSubtract.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_1.Main" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_2.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_1.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.m_Interface.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_1.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.m_Interface.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_3.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.m_Interface.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_4.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_5.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_4.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_3.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.m_Interface.Uppgift_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +183,7 @@
       <workItem from="1727335436506" duration="6692000" />
       <workItem from="1727417520323" duration="1928000" />
       <workItem from="1727709730918" duration="29000" />
+      <workItem from="1727763938050" duration="3480000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
