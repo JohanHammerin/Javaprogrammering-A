@@ -1,0 +1,90 @@
+Uppgift 1: Enkel inmatning av användarnamn
+Beskrivning:
+Skapa ett program som frågar användaren efter deras namn och sedan skriver ut namnet.
+
+Krav:
+
+Använd klassen Scanner för att ta emot användarens namn som en sträng.
+Skriv ut användarens namn i konsolen.
+Exempelutdata:
+
+
+Enter your name:
+John
+Username is: John
+
+Uppgift 2: Läsa flera inmatningar (namn, ålder, lön)
+Beskrivning:
+Skapa ett program som tar in användarens namn, ålder och lön, och skriver sedan ut dessa värden.
+
+Krav:
+
+Använd nextLine() för att läsa användarens namn.
+Använd nextInt() för att läsa åldern.
+Använd nextDouble() för att läsa lönen.
+Skriv ut all inskriven information i konsolen.
+Exempelutdata:
+
+yaml
+Kopiera kod
+Enter name, age, and salary:
+Alice
+25
+35000.50
+Name: Alice
+Age: 25
+Salary: 35000.5
+
+
+
+Uppgift 3: Hantera felaktig inmatning
+Beskrivning:
+Skapa ett program som tar in ett heltal från användaren, men hanterar eventuella felaktiga
+inmatningar (t.ex. om användaren matar in en sträng istället för ett heltal).
+
+Krav:
+
+Använd nextInt() för att läsa in ett heltal.
+Om användaren matar in fel typ av data (t.ex. en sträng), ska programmet hantera detta genom att skriva ut ett felmeddelande.
+Använd try-catch för att fånga undantaget InputMismatchException.
+Exempelutdata:
+
+less
+Kopiera kod
+Enter a number:
+abc
+Invalid input! Please enter a valid integer.
+
+
+Uppgift 4: Fråga användaren om sant eller falskt
+Beskrivning:
+Skapa ett program som frågar användaren om de gillar programmering och tar in ett booleskt värde (true eller false).
+
+Krav:
+
+Använd nextBoolean() för att ta emot ett booleskt värde från användaren.
+Skriv ut ett meddelande baserat på användarens inmatning.
+Exempelutdata:
+
+vbnet
+Kopiera kod
+Do you like programming? (true/false):
+true
+That's great! Keep coding.
+
+
+Uppgift 5: Summera två decimaltal från användaren
+Beskrivning:
+Skapa ett program som ber användaren att mata in två decimaltal och sedan skriver ut summan av dessa tal.
+
+Krav:
+
+Använd nextDouble() för att läsa två decimaltal.
+Summera talen och skriv ut resultatet.
+Exempelutdata:
+
+
+Enter two decimal numbers:
+5.5
+3.2
+The sum is: 8.7

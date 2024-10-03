@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_1/Weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_2/Level.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_3/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_4/Colour.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/Describable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Frågor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +56,10 @@
     "Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_3.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_4.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_1.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_2.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_4.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.Main.executor": "Run",
     "JUnit.CalculatorTest.testAdd.executor": "Run",
     "JUnit.CalculatorTest.testDivide.executor": "Run",
     "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
@@ -96,13 +94,13 @@
       <recent name="se.johan_hammerin.w3Schools.n_Enums.Uppgift_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.Main">
+  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_3.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_2.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.n_Enums.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_1.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_1.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_1.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.n_Enums.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_3.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_2.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_3.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.n_Enums.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_4.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_4.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_4.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_5.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_4.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_3.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_5.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_4.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.n_Enums.Uppgift_1.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_2.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.o_User_Input.Uppgift_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -196,6 +194,7 @@
       <workItem from="1727709730918" duration="29000" />
       <workItem from="1727763938050" duration="3480000" />
       <workItem from="1727875288710" duration="3175000" />
+      <workItem from="1727955275715" duration="970000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
