@@ -82,7 +82,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Calculator">
+  <component name="RunManager" selected="Application.se.johan_hammerin.tärningsspelet.Main">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.hawaii.Calculator" />
       <module name="Javaprogrammering-A" />
@@ -150,8 +150,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.se.johan_hammerin.tärningsspelet.Main" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main" />
         <item itemvalue="Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main" />
@@ -189,6 +189,7 @@
       <workItem from="1727682254247" duration="98000" />
       <workItem from="1727685360693" duration="149000" />
       <workItem from="1727687262395" duration="710000" />
+      <workItem from="1727937915400" duration="4320000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
