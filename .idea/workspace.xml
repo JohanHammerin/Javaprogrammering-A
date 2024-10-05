@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Frågor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_5/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +69,10 @@
     "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main.executor": "Run",
     "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main.executor": "Run",
+    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main.executor": "Run",
     "JUnit.CalculatorTest.testAdd.executor": "Run",
     "JUnit.CalculatorTest.testDivide.executor": "Run",
     "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
@@ -93,13 +97,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_4.Main" />
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_5.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_4.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.p_Date.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_1.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_1.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_2.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_3.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main" />
+    <configuration name="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main" />
       <module name="Javaprogrammering-A" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="se.johan_hammerin.w3Schools.p_Date.Uppgift_5.*" />
+          <option name="PATTERN" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main" />
-        <item itemvalue="Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_1.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main" />
+        <item itemvalue="Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -202,6 +206,7 @@
       <workItem from="1727687262395" duration="710000" />
       <workItem from="1727937915400" duration="4320000" />
       <workItem from="1728051131653" duration="2603000" />
+      <workItem from="1728111927929" duration="1267000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
