@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Frågor" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,53 +42,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Calculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.se.johan_hammerin.tärningsspelet.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_1.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main.executor": "Run",
-    "Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main.executor": "Run",
-    "JUnit.CalculatorTest.testAdd.executor": "Run",
-    "JUnit.CalculatorTest.testDivide.executor": "Run",
-    "JUnit.CalculatorTest.testDivisionByZero.executor": "Run",
-    "JUnit.CalculatorTest.testMultiply.executor": "Run",
-    "JUnit.CalculatorTest.testSquareRootOf.executor": "Run",
-    "JUnit.CalculatorTest.testSubtract.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ToolWindow.Run.ShowToolbar": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.tärningsspelet.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.j_Polymorphism.Uppgift_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.k_Inner_Classes.Uppgift_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.l_Abstraction.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.p_Date.Uppgift_5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testAdd.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivide.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testDivisionByZero.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testMultiply.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSquareRootOf.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSubtract.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindow.Run.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.johan_hammerin.w3Schools.q_ArrayList.Uppgift_5.Main" />
@@ -207,6 +199,7 @@
       <workItem from="1727937915400" duration="4320000" />
       <workItem from="1728051131653" duration="2603000" />
       <workItem from="1728111927929" duration="1267000" />
+      <workItem from="1728204197130" duration="60000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
