@@ -1,0 +1,29 @@
+Uppgift 1: Skapa en abstrakt klass och metod
+
+    Skapa en abstrakt klass Vehicle med en abstrakt metod startEngine().
+    Skapa två underklasser, Car och Motorcycle, som ärver från Vehicle.
+    Implementera den abstrakta metoden startEngine() i båda underklasserna och skriv ut olika meddelanden (t.ex. "Car engine started" och "Motorcycle engine started").
+
+Uppgift 2: Användning av både abstrakta och vanliga metoder
+
+    Skapa en abstrakt klass Animal med en abstrakt metod animalSound() och en vanlig metod sleep() som skriver ut "Zzz".
+    Skapa en underklass Dog som ärver från Animal och implementerar animalSound() så att den skriver ut "The dog says: woof woof".
+    Skapa ett program som skapar ett Dog-objekt och anropar både animalSound() och sleep().
+
+Uppgift 3: Förbjudna objekt av abstrakta klasser
+
+    Skapa en abstrakt klass Shape med en abstrakt metod draw().
+    Skapa två underklasser Circle och Square som ärver från Shape och implementerar draw() med olika utskrifter (t.ex. "Drawing a circle" och "Drawing a square").
+    Försök att skapa ett objekt av klassen Shape och förklara varför det inte är möjligt.
+
+Uppgift 4: Arv och abstrakta klasser
+
+    Skapa en abstrakt klass Device med en abstrakt metod turnOn() och en vanlig metod turnOff() som skriver ut "Device turned off".
+    Skapa en underklass Smartphone som ärver från Device och implementerar turnOn() så att den skriver ut "Smartphone is now on".
+    Skapa ett program som skapar ett Smartphone-objekt och anropar både turnOn() och turnOff().
+
+Uppgift 5: Kombination av abstrakta och konkreta metoder
+
+    Skapa en abstrakt klass Employee med en abstrakt metod calculateSalary() och en vanlig metod work() som skriver ut "Employee is working".
+    Skapa två underklasser, Manager och Developer, som implementerar calculateSalary() på olika sätt.
+    Skapa ett program där du skapar objekt av både Manager och Developer, anropar work() och calculateSalary() för båda objekten.

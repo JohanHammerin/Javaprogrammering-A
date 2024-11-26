@@ -1,0 +1,70 @@
+Uppgift 1: Skapa en Klass med Inkapslade Attribut
+
+Skapa en klass som heter BankAccount med följande inkapslade attribut (privata):
+
+    accountNumber (String)
+    balance (double)
+
+    Implementera getter- och setter-metoder för accountNumber,
+    men gör endast en getter-metod för balance (saldot kan bara läsas,
+    inte direkt ändras).
+    Lägg till en metod deposit som tar emot ett belopp och lägger
+    till det till balansen.
+    Lägg till en metod withdraw som minskar balansen med ett visst
+    belopp om balansen är tillräcklig, annars skriver ut ett felmeddelande.
+
+Testa din klass genom att skapa ett bankkonto, göra insättningar, uttag och skriva ut kontoinformation.
+
+
+
+Uppgift 2: Begränsa Dataåtkomst med Inkapsling
+
+    Skapa en klass som heter Student med följande privata attribut:
+        studentID (int)
+        name (String)
+        grade (double)
+
+    Implementera getter- och setter-metoder för alla attribut, men sätt en validering i setter-metoden
+    för grade så att betyget alltid måste vara mellan 0 och 100. Om ett ogiltigt värde anges, skriv ut ett felmeddelande och ändra inte betyget.
+
+    Skapa en Main-klass där du skapar flera studentobjekt, ställer in betyg och kontrollerar att valideringen fungerar korrekt.
+
+Uppgift 3: Hantera Komplexa Attribut
+
+Skapa en klass som heter Car med följande privata attribut:
+
+    make (String)
+    model (String)
+    year (int)
+    mileage (double)
+
+    Implementera getter- och setter-metoder för varje attribut.
+    Sätt en regel i setter-metoden för year som gör att bilens år inte kan vara större än det nuvarande året.
+    Implementera en metod drive som tar emot ett avstånd i kilometer och ökar bilens mileage med det angivna avståndet.
+
+Testa genom att skapa flera bilobjekt, köra dem olika distanser och kontrollera att alla regler för året och körsträckan fungerar.
+Uppgift 4: Lås Skrivåtkomst
+
+Skapa en klass Employee med följande attribut:
+
+    employeeID (int)
+    name (String)
+    salary (double)
+
+    Gör så att employeeID är endast läsbart (skapa bara en getter-metod).
+    Implementera setter-metoder för name och salary, men sätt en gräns i setter-metoden för salary så att det inte kan vara mindre än minimilönen (exempel: 20000).
+    Skapa en metod giveRaise som ökar lönen med en viss procentandel.
+
+Testa din klass genom att skapa olika anställda, ge dem löneförhöjningar och validera att ingen lön kan bli för låg.
+Uppgift 5: Inkapsling och Konstruktorer
+
+    Skapa en klass Book med följande privata attribut:
+        title (String)
+        author (String)
+        price (double)
+
+    Skapa en konstruktor som initialiserar alla tre attributen när ett objekt skapas.
+
+    Implementera getter-metoder för alla attribut, men tillåt endast priset att uppdateras med en setter-metod (använd validering så att priset inte kan vara negativt).
+
+    Skapa en Main-klass som skapar flera Book-objekt, visar deras information och ändrar priserna.

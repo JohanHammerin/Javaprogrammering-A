@@ -1,0 +1,35 @@
+
+
+Här kommer fem uppgifter baserade på texten om Java Polymorphism:
+Uppgift 1: Grundläggande polymorfism
+
+    Skapa en superklass Vehicle med en metod startEngine().
+    Skapa två subklasser Car och Bike som överskuggar metoden startEngine().
+    Skapa en metod som tar en Vehicle-referens och anropar startEngine(). Testa med både Car och Bike-objekt för att se polymorfismen i action.
+
+Uppgift 2: Polymorfism med flera subklasser
+
+    Skapa en superklass Shape med en metod draw().
+    Skapa tre subklasser: Circle, Rectangle och Triangle som alla överskuggar metoden draw().
+    Skapa en metod som tar en Shape-referens och anropar draw()-metoden. Skicka in olika subklasser (t.ex. Circle, Rectangle och Triangle) och observera hur polymorfismen gör att rätt metod anropas beroende på objekttyp.
+
+Uppgift 3: Polymorfism med djur
+
+    Skapa en superklass Animal med en metod makeSound().
+    Skapa subklasser Cat, Dog, och Cow, där varje subklass överskuggar metoden makeSound() för att skriva ut olika ljud för varje djur (t.ex. "The cat says: meow", "The dog says: woof", "The cow says: moo").
+    Skapa en metod som tar en Animal-referens och anropar makeSound(). Testa med alla tre djurtyper och se hur polymorfism fungerar.
+
+Uppgift 4: Polymorfism med betalningsmetoder
+
+    Skapa en superklass PaymentMethod med en metod processPayment().
+    Skapa två subklasser: CreditCard och PayPal. Båda subklasserna ska överskugga metoden processPayment() för att behandla betalningar på olika sätt.
+    Skapa en metod som tar en PaymentMethod-referens och anropar processPayment(). Testa metoden med både CreditCard och PayPal-objekt.
+
+Uppgift 5: Polymorfism med verktyg
+
+    Skapa en superklass Tool med en metod useTool().
+    Skapa två subklasser: Hammer och Wrench. Varje subklass ska ha sin egen implementation av metoden useTool().
+    Skapa en metod som tar en Tool-referens och anropar useTool(). Skapa instanser av både Hammer och Wrench och testa polymorfismen.
+
+
+ChatGPT kan begå m

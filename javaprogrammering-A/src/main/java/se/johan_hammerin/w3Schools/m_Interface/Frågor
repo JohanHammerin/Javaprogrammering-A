@@ -1,0 +1,93 @@
+Uppgift 1: Implementera ett enkelt interface
+Beskrivning:
+Skapa ett interface som representerar en enkel maskin,
+till exempel en Vehicle. Detta interface ska ha två metoder: startEngine() och stopEngine().
+Implementera sedan detta interface i en klass som representerar en bil, till exempel Car.
+
+Krav:
+
+Skapa ett interface Vehicle med metoderna startEngine() och stopEngine().
+Skapa en klass Car som implementerar Vehicle-interfacet.
+I Car-klassen, skriv ut meddelanden i metoderna när motorn startar och stängs av.
+Skapa ett huvudprogram där du skapar ett objekt av Car och anropar metoderna.
+Exempelutdata:
+
+Engine started.
+Engine stopped.
+
+
+Uppgift 2: Implementera flera interface
+Beskrivning:
+Skapa två interface, ett för Movable och ett för Soundable.
+I Movable ska det finnas en metod move(), och i Soundable ska det finnas en metod makeSound().
+Implementera dessa interface i en klass Dog, där hunden kan både röra sig och göra ett ljud.
+
+Krav:
+
+Skapa interface Movable med en metod move().
+Skapa interface Soundable med en metod makeSound().
+Skapa en klass Dog som implementerar både Movable och Soundable.
+Implementera metoderna i Dog så att det skrivs ut passande meddelanden.
+Skapa ett huvudprogram som skapar ett Dog-objekt och anropar metoderna.
+Exempelutdata:
+
+yaml
+The dog runs.
+The dog barks: Woof Woof!
+
+Uppgift 3: Interface med konstanta attribut
+Beskrivning:
+Skapa ett interface Constants som innehåller två konstanta värden, till exempel MAX_SPEED och MIN_SPEED.
+Implementera detta interface i en klass Bicycle som kan använda dessa konstanta värden i sin funktionalitet.
+
+Krav:
+
+Skapa ett interface Constants med konstanterna MAX_SPEED och MIN_SPEED.
+Skapa en klass Bicycle som implementerar Constants.
+I Bicycle-klassen, skapa metoder som använder sig av dessa konstanta värden, till exempel increaseSpeed()
+och decreaseSpeed().
+Skapa ett huvudprogram där du skapar ett Bicycle-objekt och anropar metoderna.
+Exempelutdata:
+
+
+Speed increased to 10 (Max: 20).
+Speed decreased to 5 (Min: 0).
+
+
+Uppgift 4: Abstraktion med interface
+Beskrivning:
+Skapa ett interface Appliance med två metoder: turnOn() och turnOff().
+Skapa två klasser som implementerar detta interface, WashingMachine och Television.
+Varje klass ska ha sin egen unika implementation av dessa metoder.
+
+Krav:
+
+Skapa ett interface Appliance med metoderna turnOn() och turnOff().
+Skapa klasserna WashingMachine och Television som implementerar Appliance.
+Varje klass ska ha sin egen version av metoderna som skriver ut specifika meddelanden när apparaten sätts på och stängs av.
+Skapa ett huvudprogram som skapar ett objekt av båda klasserna och anropar deras metoder.
+Exempelutdata:
+
+
+Washing machine is now ON.
+Washing machine is now OFF.
+Television is now ON.
+Television is now OFF.
+
+
+Uppgift 5: Kombinera abstraktion och multipel implementation
+Beskrivning:
+Skapa ett system för ett musikspelare-program. Skapa två interface: Playable (som har metoden play()) och
+Recordable (som har metoden record()). Skapa en klass MusicPlayer som implementerar båda dessa
+interface och ger en specifik implementation för att spela och spela in musik.
+
+Krav:
+
+Skapa interface Playable med metoden play().
+Skapa interface Recordable med metoden record().
+Skapa en klass MusicPlayer som implementerar båda interfacen och ger specifika implementationer av metoderna.
+Skapa ett huvudprogram där du skapar ett MusicPlayer-objekt och anropar båda metoderna.
+Exempelutdata:
+
+Playing music...
+Recording music...

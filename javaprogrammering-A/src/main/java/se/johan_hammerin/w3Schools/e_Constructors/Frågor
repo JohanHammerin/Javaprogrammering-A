@@ -1,0 +1,32 @@
+1. Skapa en enkel konstruktor
+
+    Skapa en klass Animal med ett attribut name.
+    Skapa en konstruktor utan parametrar som sätter name till "Unknown".
+    Skapa ett objekt av Animal i huvudmetoden och skriv ut name.
+
+2. Konstruktor med en parameter
+
+    Skapa en klass Person med ett attribut age.
+    Skapa en konstruktor som tar en parameter int initialAge och sätter age till detta värde.
+    Skapa ett objekt av Person i huvudmetoden och skriv ut age.
+
+3. Konstruktor med flera parametrar
+
+    Skapa en klass Book med två attribut: title (String) och author (String).
+    Skapa en konstruktor som tar två parametrar (String bookTitle och String bookAuthor) och sätter attributen.
+    Skapa ett objekt av Book i huvudmetoden och skriv ut title och author.
+
+4. Modifiera attribut med hjälp av en konstruktor
+
+    Skapa en klass Rectangle med attributen width och height.
+    Skapa en konstruktor som tar två parametrar (int w och int h) och sätter width och height.
+    Skapa ett objekt av Rectangle och beräkna och skriv ut arean (width * height).
+
+5. Standardkonstruktor och överlagd konstruktor
+
+    Skapa en klass Student med attributen name (String) och grade (int).
+    Skapa en standardkonstruktor som sätter name till "No Name" och grade till 0.
+    Skapa en annan konstruktor som tar två parametrar (String studentName och int studentGrade) och sätter attributen.
+    Skapa två objekt av Student, ett med standardkonstruktorn och ett med den överlagda konstruktorn, och skriv ut deras attribut.
+
+

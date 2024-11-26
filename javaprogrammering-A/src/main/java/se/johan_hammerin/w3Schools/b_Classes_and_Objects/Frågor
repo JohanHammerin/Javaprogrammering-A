@@ -1,0 +1,29 @@
+
+
+
+
+1. Skapa en enkel Java-klass och ett objekt
+
+    Skapa en klass som heter Person med en instansvariabel name och sätt värdet till "John".
+    Skapa ett objekt av klassen Person och skriv ut värdet på variabeln name.
+
+2. Skapa flera objekt av en klass
+
+    Skapa en klass som heter Car med en instansvariabel color och sätt färgen till "Red".
+    Skapa två objekt av klassen Car och skriv ut färgen för varje objekt.
+
+3. Skapa och använda flera klasser
+
+    Skapa två klasser: Animal och Zoo. I Animal, definiera en instansvariabel type med värdet "Lion".
+    Skapa ett objekt av Animal i klassen Zoo och skriv ut variabeln type från objektet.
+
+4. Skapa en klass och använd den i en annan fil
+
+    Skapa två klasser i separata filer: Book och Library. I Book, skapa en instansvariabel title och sätt den till "Java Programming".
+    I Library, skapa ett objekt av Book och skriv ut värdet på title.
+
+5. Testa din förståelse för objekt och klasser
+
+    Skapa en klass som heter MyClass med en instansvariabel x och sätt värdet till 10.
+    Skapa ett objekt av MyClass kallat myObj och skriv ut värdet på x.
+
