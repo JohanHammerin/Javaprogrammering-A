@@ -4,8 +4,281 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="09:07">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="83c18dd8-1a3c-4df8-8a72-773f903b15f4" name="Changes" comment="15:24">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/hawaii/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/hawaii/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_10/Övning_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_11/calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/conditionals/IfExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/conditionals/SwitchExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/loops/ArrayLoopExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_2/loops/ForLoopExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/methods/MethodExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Bakelse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Bullängd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bakelser/Solbulle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Bil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_3/oop/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/Calculator/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/Calculator/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/SwitchExercise/SwitchExercise.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_4/primtitiva_String_Objects/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_5/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Parprogrammering/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_6/Övning_2/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_8/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_1/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Publisher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_2/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/associationer/Övning_3/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/toString/Apartment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/lektion_9/toString/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Dice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/tärningsspelet/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_1/Uppgift_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_2/Uppgift_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_3/Uppgift_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_4/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_4/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_4/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_4/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_5/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_5/Banana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_5/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/a_OOP/Uppgift_5/Mango.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_3/Zoo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_4/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_4/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/b_Classes_and_Objects/Uppgift_5/MyClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_4/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/c_Class_Attributes/Uppgift_5/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_1/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_2/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_4/Helper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_4/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/d_Class_Methods/Uppgift_5/MathOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_3/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_4/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/e_Constructors/Uppgift_5/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_1/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_2/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_2/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_3/MathOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_4/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_4/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_4/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_5/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/f_Modifiers/Uppgift_5/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_1/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_3/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_4/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_5/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/g_Encapsulation/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_2/Main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_2/mypackage/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_4/Geometry/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_4/Shapes/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_4/Shapes/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_5/Main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_5/Mathoperations/Addition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_5/Mathoperations/Division.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_5/Mathoperations/Multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/h_Packages/Uppgift_5/Mathoperations/Subtraction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_1/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_1/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_2/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_2/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_3/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_3/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_4/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_4/PublicLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_5/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_5/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_5/LivingBeing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_6/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_6/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_7/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_7/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_7/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/i_Inheritance/Uppgift_7/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Bike.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_2/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PayPal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_4/PaymentMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Hammer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Tool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/j_Polymorphism/Uppgift_5/Wrench.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_1/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_2/InnerClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_3/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_4/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/k_Inner_Classes/Uppgift_5/OuterClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Motorcycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_3/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Device.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_4/Smartphone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/l_Abstraction/Uppgift_5/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_1/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Movable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_2/Soundable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Bicycle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Appliance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_4/WashingMachine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/MusicPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Playable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/m_Interface/Uppgift_5/Recordable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_1/Weather.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_2/Level.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_3/Drink.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_4/Colour.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/DaysOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/Describable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/n_Enums/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/o_User_Input/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/p_Date/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Frågor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_3/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/johan_hammerin/w3Schools/q_ArrayList/Uppgift_5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/se/johan_hammerin/CalculatorTest/CalculatorTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +302,12 @@
     &quot;assignee&quot;: &quot;JohanHammerin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/JohanHammerin/Javaprogrammering-A.git&quot;,
-    &quot;accountId&quot;: &quot;52277384-6982-440d-b3b2-c755cc753a84&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JohanHammerin/Javaprogrammering-A.git",
+    "accountId": "3dc9ad8a-fd53-41af-86a5-598df921f5fa"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -204,7 +477,7 @@
       <workItem from="1728111927929" duration="1267000" />
       <workItem from="1728204197130" duration="60000" />
       <workItem from="1732630684645" duration="24000" />
-      <workItem from="1732630711723" duration="269000" />
+      <workItem from="1732630711723" duration="501000" />
     </task>
     <task id="LOCAL−00001" summary="09:07">
       <option name="closed" value="true" />
@@ -220,7 +493,14 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1727334600205</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="15:24">
+      <option name="closed" value="true" />
+      <created>1732631105310</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1732631105310</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +519,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="09:07" />
-    <option name="LAST_COMMIT_MESSAGE" value="09:07" />
+    <MESSAGE value="15:24" />
+    <option name="LAST_COMMIT_MESSAGE" value="15:24" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
